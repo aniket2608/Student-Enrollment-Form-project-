@@ -15,6 +15,16 @@ Table of contents: Roll-No Student Full Name Class Birth-Date Address Enrollment
 
 ![Screenshot 2023-07-09 225600](https://github.com/aniket2608/Student-Enrollment-Form-project-/assets/121717693/43831b73-70bb-45dc-9530-9f8d5650ef39)
 
+Scope of functionalities :
+
+Examples of use : can be used foe various other platforms like Online Examination Registration , Job Application , profile creation , and many more other uses .
+
+Project status : Done
+
+Sources :Introduction to JsonPowerDB - V2.0 https://careers.login2explore.com/course/view.php?id=14
+
+Other information Sources : https://login2explore.com/jpdb/docs.html
+
 
 
 
